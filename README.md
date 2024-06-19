@@ -1,16 +1,17 @@
 # Add To Cart Project with React Redux
 
-<h4>Table of Contents></h4>
-
-1.Introduction
-2.Features
-3.Technologies Used
-4.Installation
-5.Usage
-6.Folder Structure
-7.Contributing
-8.License
-9.Contact
+<h4>Table of Contents</h4>
+<ul>
+<li>1.Introduction</li>
+<li>2.Features</li>
+<li>3.Technologies Used</li>
+<li>4.Installation</li>
+<li>5.Usage</li>
+<li>6.Folder Structure</li>
+<li>7.Contributing</li>
+<li>8.License</li>
+<li>9.Contact</li>
+</ul>
 
 <h4>Introduction</h4>
 
@@ -23,15 +24,18 @@ Delete Product to delete function
 Show added product in the Navbar cart menu option
 
 <h4>Technologies Used</h4>
+<ul>
+<li>React</li>
+<li>react-Redux</li>
+<li>react-dom</li>
+<li>React router-dom</li>
+<li>react-boostrap</li>
+<li>@material ui</li>
+<li>react-icons</li>
+</ul>
 
-React
-react-Redux
-react-dom
-React router-dom
-react-boostrap
-@material ui
-react-icons
 <h4>Installation</h4>
+
 To set up the project locally, follow these steps:
 
 1.Clone the repository:
@@ -52,6 +56,7 @@ npm run dev
 
 <h4>Usage</h4
 >
+
 Once the server is running, you can access the application at http://localhost:{port} in your web browser.
 
 <h4>Folder Structure</h4>
@@ -76,7 +81,7 @@ your-repository/
 └── ...
 
 
-Contact
+<h4>Contact</h4>
 If you have any questions or suggestions, feel free to reach out to [Chauhan Ajay] at [chauhan19992gmail.com]
 
 

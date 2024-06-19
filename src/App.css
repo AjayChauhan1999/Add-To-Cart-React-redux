@@ -1,0 +1,68 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.EmptyCartContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.EmptyCartImg{
+    width: 100px !important;
+    height: 85px !important;
+}
+.CardDetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.card-img-top{
+    height: 16rem;
+}
+button{
+    width: 100%;
+}
+.CardDetail-img{
+    width: 300px !important;
+    border-radius: 5px;
+}
+.iteamsdetails{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.items_div img{
+    width: 350px;
+    border-radius: 5px;
+}
+.MDdelete-col{
+    cursor: pointer;
+    display: none;
+}
+@media only screen and (max-width: 425px){
+    .MDdelete-col   {
+        display: block;
+    }
+    .MDdelete-flex   {
+        display: none;
+    }
+}
+.inc-dec-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: darkgray;
+    width:50%;
+    border-radius: 10px;
+}
+.inc-dec-container span{
+    color: black;
+    font-size:1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+}

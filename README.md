@@ -2,15 +2,15 @@
 
 <h4>Table of Contents</h4>
 <ul>
-<li>1.Introduction</li>
-<li>2.Features</li>
-<li>3.Technologies Used</li>
-<li>4.Installation</li>
-<li>5.Usage</li>
-<li>6.Folder Structure</li>
-<li>7.Contributing</li>
-<li>8.License</li>
-<li>9.Contact</li>
+    <li>1.Introduction</li>
+    <li>2.Features</li>
+    <li>3.Technologies Used</li>
+    <li>4.Installation</li>
+    <li>5.Usage</li>
+    <li>6.Folder Structure</li>
+    <li>7.Contributing</li>
+    <li>8.License</li>
+    <li>9.Contact</li>
 </ul>
 
 <h4>Introduction</h4>
@@ -25,34 +25,34 @@ Show added product in the Navbar cart menu option
 
 <h4>Technologies Used</h4>
 <ul>
-<li>React</li>
-<li>react-Redux</li>
-<li>react-dom</li>
-<li>React router-dom</li>
-<li>react-boostrap</li>
-<li>@material ui</li>
-<li>react-icons</li>
+    <li>React</li>
+    <li>react-Redux</li>
+    <li>react-dom</li>
+    <li>React router-dom</li>
+    <li>react-boostrap</li>
+    <li>@material ui</li>
+    <li>react-icons</li>
 </ul>
 
 <h4>Installation</h4>
 
 To set up the project locally, follow these steps:
 
-1.Clone the repository:
+    1.Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+        git clone https://github.com/your-username/your-repository.git
 
-2.Navigate to the project directory:
+    2.Navigate to the project directory:
 
-cd your-repository
+        cd your-repository
 
-3.Install dependencies:
+    3.Install dependencies:
 
-npm install
+        npm install
 
-4.Start the development server:
+    4.Start the development server:
 
-npm run dev
+        npm run dev
 
 <h4>Usage</h4
 >
@@ -63,8 +63,9 @@ Once the server is running, you can access the application at http://localhost:{
 
 Here is an overview of the project's folder structure:
 <ul>
-<li>your-repository/</li>
-<ul><li>├── public/</li>
+    <li>your-repository/</li>
+<ul>
+    <li>├── public/</li>
     <li>│   ├── EmptyCart.gif</li>
 </ul>
     <li>├── src/</li>
@@ -85,6 +86,7 @@ Here is an overview of the project's folder structure:
 
 
 <h4>Contact</h4>
+
 If you have any questions or suggestions, feel free to reach out to [Chauhan Ajay] at [chauhan19992gmail.com]
 
 

@@ -67,8 +67,7 @@ Here is an overview of the project's folder structure:
 <ul><li>├── public/</li>
     <li>│   ├── EmptyCart.gif</li>
 </ul>
-  <li>├── src/</li>
-<ul>
+    <li>├── src/</li>
     <li>│   ├── assets</li>
     <li>│   ├── components/</li>
     <li>│   ├── redux/</li>

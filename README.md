@@ -65,22 +65,22 @@ Here is an overview of the project's folder structure:
 <ul>
 <li>your-repository/</li>
 <ul><li>├── public/</li>
-<li>│   ├── EmptyCart.gif</li>
+    <li>│   ├── EmptyCart.gif</li>
 </ul>
-<li>├── src/</li>
-  <ul>
-<li>│   ├── assets</li>
-<li>│   ├── components/</li>
-<li>│   ├── redux/</li>
-<li>│   ├── App.css</li>
-<li>│   ├── App.jsx</li>
-<li>│   ├── index.css</li>
-<li>│   ├── store.js</li>
-<li>│   └── ...</li>
-<li>├── .gitignore</li>
-<li>├── package.json</li>
-<li>├── README.md</li>
-<li>└── ...</li>
+  <li>├── src/</li>
+<ul>
+    <li>│   ├── assets</li>
+    <li>│   ├── components/</li>
+    <li>│   ├── redux/</li>
+    <li>│   ├── App.css</li>
+    <li>│   ├── App.jsx</li>
+    <li>│   ├── index.css</li>
+    <li>│   ├── store.js</li>
+    <li>│   └── ...</li>
+    <li>├── .gitignore</li>
+    <li>├── package.json</li>
+    <li>├── README.md</li>
+    <li>└── ...</li>
 </ul>
 
 
